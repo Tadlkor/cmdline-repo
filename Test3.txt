@@ -1,0 +1,7 @@
+total 0
+drwxr-xr-x   6 eugenev  staff  192 Oct 17 11:27 .
+drwxr-xr-x   3 eugenev  staff   96 Oct 16 20:54 ..
+drwxr-xr-x  10 eugenev  staff  320 Oct 17 11:26 .git
+-rw-r--r--   1 eugenev  staff    0 Oct 16 21:04 test.txt
+-rw-r--r--   1 eugenev  staff    0 Oct 17 11:26 test2.txt
+-rw-r--r--   1 eugenev  staff    0 Oct 17 11:27 Test3.txt
